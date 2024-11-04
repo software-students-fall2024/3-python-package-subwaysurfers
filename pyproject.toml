@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pytextalterations"
 description = "A package that alters text in four different ways."
-version = "1.0.0"
+version = "1.1.0"
 authors = [
     { name="Neha Magesh", email="nm3818@nyu.edu" },
     { name="Luca Ignatescu", email="lucaignatescu003@gmail.com"},
