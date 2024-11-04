@@ -23,6 +23,10 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+dependencies = [
+    "regex"
+]
+
 [project.optional-dependencies]
 dev = ["pytest", "build", "twine"]
 
