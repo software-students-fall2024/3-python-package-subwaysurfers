@@ -110,7 +110,9 @@ sentence_count(string) returns:
 
 # Contribute
 
-### Please install pipenv 
+### Please install a virtual environment of your choice
+#### In this example, we will use pipenv
+
 pip install pipenv
 
 ### Please clone the repo 
@@ -118,7 +120,7 @@ git clone https://github.com/software-students-fall2024/3-python-package-subways
 
 cd 3-python-package-subwaysurfers
 
-### Install dev packages and navigate to the pipenv shell
+### Install dev packages and activate the environment with pipenv shell.
 pipenv install --dev
 
 pipenv shell
@@ -133,10 +135,10 @@ pytest
 
 # Installation and Usage
 
-### Please install pipenv 
+### Create and activate a virtual environment of your choice
+#### In this example, we will use pipenv
 pip install pipenv
 
-### Navigate to the pipenv shell 
 pipenv shell
 
 ### Install our package! 
