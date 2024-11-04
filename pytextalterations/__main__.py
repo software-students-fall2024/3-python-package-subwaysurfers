@@ -1,7 +1,7 @@
-import capitalize_sentences
-import most_frequent_words
-import remove
-import sentence_count
+from . import capitalize_sentences
+from . import most_frequent_words
+from . import remove
+from . import sentence_count
 
 
 def main():
