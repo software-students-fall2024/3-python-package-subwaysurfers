@@ -120,7 +120,8 @@ git clone https://github.com/software-students-fall2024/3-python-package-subways
 
 cd 3-python-package-subwaysurfers
 
-### Install dev packages and activate the environment with pipenv shell.
+### Install dev packages and activate the virtual environment
+
 pipenv install --dev
 
 pipenv shell
